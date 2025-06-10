@@ -2,8 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 /* Definition of the design system. All colors, gradients, fonts, etc should be defined here. */
 
+=======
+>>>>>>> 04cedc4b9a115c572a13c7237d724817895cc315
 @layer base {
   :root {
     --background: 0 0% 100%;
